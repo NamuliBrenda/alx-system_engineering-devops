@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $(ls -la [0-9]*) < $(pwd)
