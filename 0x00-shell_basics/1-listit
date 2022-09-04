@@ -1,13 +1,4 @@
 #!/bin/bash
 echo $(ls) < $(pwd)
 
-#directory=$(pwd)
-
-#files=$(ls)<$directory
-
-#for file in $files
-#do
-#	echo $file
-#done
-
 
